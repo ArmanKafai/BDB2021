@@ -1,6 +1,6 @@
 # BDB2021
 
-**Erin Pšajdl (@erinpsajdl), Arman Kafai (@ArmanKafai), Alex Stubblefield(@thestubbhub), Josh Brown (@ATJoshBrown)
+**Erin Pšajdl (@erinpsajdl), Arman Kafai (@ArmanKafai), Alex Stubblefield(@thestubbhub), Josh Brown (@ATJoshBrown)**
 
 To start this project, you must download the data from the Kaggle website: https://www.kaggle.com/c/nfl-big-data-bowl-2021/data.
 
